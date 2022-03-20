@@ -113,6 +113,7 @@ capar
 carro
 ceder
 cacao
+claro
 caldo
 canoa
 capaz
@@ -219,6 +220,7 @@ forma
 frito
 fumar
 gafas
+gatos
 ganas
 galia
 ganso
@@ -344,6 +346,8 @@ pixel
 papel
 peces
 palma
+pasto
+perro
 panel
 parar
 parir
@@ -390,6 +394,7 @@ saque
 saber
 serie
 sitio
+sacar
 snack
 sonar
 sopas
