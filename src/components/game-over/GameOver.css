@@ -40,4 +40,12 @@
   border: none;
   border-radius: 8px;
   text-transform: uppercase;
+  cursor: pointer;
+  transition: 0.3s ease;
+  box-shadow: 0px 0px 4px white;
+}
+
+.game-over-restart:hover {
+  font-size: 20px;
+  box-shadow: 0px 0px 14px white;
 }
