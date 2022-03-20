@@ -140,6 +140,8 @@ cojin
 color
 colon
 comun
+cerdo
+cirio
 coñac
 conde
 comic
