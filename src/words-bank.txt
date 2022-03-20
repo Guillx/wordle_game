@@ -130,6 +130,8 @@ cesar
 choza
 choca
 coche
+coste
+corte
 clima
 cofia
 cofre
@@ -367,6 +369,7 @@ quita
 queso
 quito
 rabia
+retro
 rajar
 radio
 racha
