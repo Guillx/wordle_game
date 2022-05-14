@@ -100,6 +100,17 @@ function App() {
       >
         <div className="game">
           <Board />
+          <p className="text">
+            Escribe una palabra de 5 letras. Puedes usar el teclado en pantalla
+            o el teclado de tu ordenador. Tienes 6 intentos para adivinar la
+            palabra escondida. Con cada intento, se marcarán en naranja las
+            letras que pertenecen a la palabra secreta pero que están en una
+            posición incorrecta. Las letras que pertenezcan a la palabra y estén
+            en la posición correcta se marcan en color verde. Si la palabra
+            escrita no existe en la base de datos, saltará un aviso y el intento
+            no será válido. Si adivinas la palabra en menos de 6 intentos,
+            ganarás el juego.
+          </p>
           <div className="bottom-side">
             {gameOver.gameOver ? <GameOver /> : <Keyboard />}
           </div>

@@ -26,6 +26,18 @@ body {
   flex-direction: column;
 }
 
+.text {
+  position: absolute;
+  right: 0;
+  top: 100px;
+  width: 400px;
+  font-size: 20px;
+  font-family: sans-serif;
+  line-height: 34px;
+  text-align: left;
+  padding: 50px;
+}
+
 .board {
   width: 425px;
   height: 425px;
